@@ -264,6 +264,13 @@ a:focus-visible {
   padding: 1.25rem;
 }
 
+/* Project photos, at the bottom of their cards */
+.card img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 .card-body p {
   margin: 0 0 0.75rem;
   color: var(--color-text);
